@@ -1,4 +1,4 @@
-# Simulation_Projects
+# Simulation Projects
 ## Course Projects for IE 551: Simulation and Stochastic Models
 **This course on computer simulation covers spreadsheet simulation, discrete event simulation, system dynamics simulation and agent-based simulation with the focus on key statistical analysis of data and practice-oriented theory**
 
